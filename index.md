@@ -3,7 +3,6 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-This is the the webpage of our **IT project**.
 
 [Link to another page](./another-page.html).
 
